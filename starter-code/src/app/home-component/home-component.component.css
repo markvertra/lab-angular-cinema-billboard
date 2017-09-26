@@ -1,0 +1,17 @@
+.movies-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  height: 200px;
+  width: 150px;
+}
